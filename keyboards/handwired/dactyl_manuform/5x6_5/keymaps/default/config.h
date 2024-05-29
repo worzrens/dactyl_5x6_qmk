@@ -20,3 +20,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define KINETIC_SPEED
 #define MASTER_RIGHT
+
+#define TAPPING_TERM 220
+#define PERMISSIVE_HOLD
+#define HOLD_ON_OTHER_KEY_PRESS
